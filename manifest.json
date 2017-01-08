@@ -230,11 +230,11 @@
         }
       },
       "guppy": {
-        "version": "1.1.0",
+        "version": "90159357876bf67ba7511f504a788b1a12cad516",
         "downloadFormat": "zip",
-        "url": "https://github.com/daniel3735928559/guppy/archive/v1.1.0.zip",
+        "url": "https://github.com/daniel3735928559/guppy/archive/90159357876bf67ba7511f504a788b1a12cad516.zip",
         "rootDirPrefix": "guppy-",
-        "targetDirPrefix": "guppy-"
+        "targetDir": "guppy-901593"
       },
       "hammerJs": {
         "version": "2.0.4",
